@@ -6,6 +6,7 @@ The purpose of this challenge was to use our knowledge of machine learning nd ne
 
 ## Results
 
-
+We assessed whether the funding proved to be influential towards success, by considering variables such as successfullness, classification, and application_type. We excluded 'EIN' and 'NSME' columns.
 
 ## Summary
+ I was unable to achieve 75% for the model accuracy. 
